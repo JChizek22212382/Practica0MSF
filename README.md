@@ -2,8 +2,8 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
-Josue Chizek Espinoza \ [22212382]; l22212382@tectijuana.edu.mx
+## Infromación del estudiante
+Josue Chizek Espinoza  [22212382]; l22212382@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -34,8 +34,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 Un circuito RLC representa un sistema de segundo orden que modeliza, de manera simplificada, la mecánica pulmonar: El resistor R representa una combinación de la resistencia al flujo de aire Q(t) en las vías respiratorias, el tejido pulmonar y la pared torácica. El inductor L representa la inertancia. Los componentes R y C representan respectivamente las propiedades mecánicas resistivas y de almacenamiento del sistema respiratorio. El objetivo del modelo eléctrico es predecir la respuesta dinámica de la presión alveolar PA(t) a diferentes formas de onda de presión Pao(t) aplicadas en la apertura de las vías respiratorias.
 
-## Palabras Claves
- Circuito RLC; Controlador PID; Sistema Respiratorio; Modelo matemático; Simulaciones numéricas.
+Palabras Claves: Circuito RLC; Controlador PID; Sistema Respiratorio; Modelo matemático; Simulaciones numéricas.
  
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
