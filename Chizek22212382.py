@@ -5,7 +5,7 @@ Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
 Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
-Nombre del alumno: Nombres y Apellidos
+Nombre del alumno: Josue Chizek Espinoza
 Número de control: 22212382
 Correo institucional: 22212382@tectijuana.edu.mx
 
@@ -128,4 +128,5 @@ plt.legend(bbox_to_anchor = (0.5,-0.2),loc = 'center', ncol = 3,
            fontsize = 9, frameon = True)
 plt.show()
 fg4.savefig('sin_python.pdf',bbox_inches = 'tight')
+
 
