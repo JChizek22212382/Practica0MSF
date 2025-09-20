@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MatLAB; SPYDER
+message: 'Lenguaje, m; python'
+type: software
+authors:
+  - family-names: Chizek
+    email: l22212382@tectijuana.edu.mx
+    affiliation: Tec-NM-ITT
+    given-names: Josue
+repository-code: 'https://github.com/JChizek22212382/Practica0MSF/tree/main'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema Respiratorio
+  - Modelo Matemático
+  - 'Simulaciones numéricas '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-19'
